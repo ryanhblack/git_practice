@@ -1,5 +1,3 @@
 One
 two
-four
-Some additional text in this file.
-'Three' should have been 'four' so I changed that, too.
+go
